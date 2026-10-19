@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "users": "Users",
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "loadUsers": "Load users",
+  "loading": "Loading...",
+  "noUsersFound": "No users found",
+  "errorLoadingUsers": "Unable to load users. Please try again.",
+  "retry": "Retry",
+  "changeLanguage": "Change language",
+  "english": "English",
+  "arabic": "Arabic",
+  "email": "Email",
+  "settings": "Settings"
+}
